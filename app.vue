@@ -7,8 +7,19 @@
 
   const SHOW_DRAGABLE_MARKER = config.public.ShowDragableMarker
 
-  definePageMeta({
-    title: 'Age of Water Map'
+  const title = ref('Age of Water Map')
+  const description = ref('Age of Water Map')
+  const base = ref('https://nicolas-skrzek.github.io/aow-map/')
+
+  useSeoMeta({
+    title,
+    description,
+    base,
+    ogTitle: title,
+    ogDescription: description,
+    ogUrl: base,
+    ogLocale: 'fr_FR',
+    ogType: 'article'
   })
 
   const locationMarker = ref(null)
