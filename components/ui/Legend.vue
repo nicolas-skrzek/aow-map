@@ -1,4 +1,6 @@
 <script setup lang="ts">
+  const config = useRuntimeConfig()
+
   export interface IUILegend {
     legends: IMarkerLegend
     showLocationMarker?: boolean;
@@ -12,6 +14,8 @@
   })
 
   const emits = defineEmits(['click:show', 'click:hide', 'update:group'])
+  
+  const urlIcon = `/${config.public.NodeEnv !== 'production' ? '' : 'aow-map/' }assets/icons/`
 </script>
 <template>
   <div class="fixed z-[1000] right-10 top-2 max-w-64 flex flex-col gap-3">
@@ -29,7 +33,7 @@
             <input v-model="legend.show" type="checkbox" @change="$emit('update:group', {key, show: legend.show})">
             <span class="pr-1">{{ legend.title }}</span>
             <div v-if="legend.color" class="rounded-full w-3 h-3" :style="{'background-color': legend.color}"></div>
-            <img v-if="legend.icon" :src="`/assets/icons/${legend.icon}.png`" :width="20">
+            <img v-if="legend.icon" :src="`${urlIcon}${legend.icon}.png`" :width="20">
           </label>
 
           <ul v-if="legend?.ships" class="pl-4">
