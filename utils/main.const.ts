@@ -21,26 +21,26 @@ export const MARKER_LEGEND: IMarkerLegend = {
     color: '#fde047',
     show: true,
   },
-  mine: {
-    title: 'Mines (WIP)',
-    color: '#000000',
-    show: false,
-  },
-  explosive: {
-    title: 'Explosifs (WIP)',
-    color: '#f97316',
-    show: false,
-  },
-  pantoon: {
-    title: 'Ponton (WIP)',
-    color: '#a78bfa',
-    show: false,
-  },
-  rock: {
-    title: 'Rocher (WIP)',
-    color: '#57534e',
-    show: false,
-  },
+  // mine: {
+  //   title: 'Mines (WIP)',
+  //   color: '#000000',
+  //   show: false,
+  // },
+  // explosive: {
+  //   title: 'Explosifs (WIP)',
+  //   color: '#f97316',
+  //   show: false,
+  // },
+  // pantoon: {
+  //   title: 'Ponton (WIP)',
+  //   color: '#a78bfa',
+  //   show: false,
+  // },
+  // rock: {
+  //   title: 'Rocher (WIP)',
+  //   color: '#57534e',
+  //   show: false,
+  // },
   rank2: {
     title: 'Navire de rang 2',
     icon: 'ship_rank_2',
