@@ -1,0 +1,610 @@
+{
+  "data": [
+    {
+      "type": "scrap",
+      "description": "Ferraille de fer et de cuivre.",
+      "coords": [
+        [22.5, -9.2],
+        [18, 20.8],
+        [37.160317, 35.683594],
+        [46.679594, 51.855469],
+        [52.589701, 70.488281],
+        [63.646259, 88.549805],
+        [74.902266, 124.665234],
+        [82.471829, 135.627344],
+        [41.376809, 82.485352],
+        [52.882391, 104.765625],
+        [64.680318, 130.557852],
+        [73.726595, 164.355469],
+        [29.840644, -59.765625],
+        [41.344772, -80.207813],
+        [52.796361, -102.304687],
+        [64.723877, -127.96875],
+        [73.726595, -162.070313],
+        [37.160317, -33.398438],
+        [46.679594, -49.470312],
+        [52.589701, -68.103125],
+        [63.648552, -86.308594],
+        [74.867889, -122.167969],
+        [39.909736, -9.140625],
+        [48.69096, -18.28125],
+        [55.578853, -35.05625],
+        [61.354614, -51.855469],
+        [71.357067, -64.6875],
+        [81.38765, -92.360937],
+        [82.458764, -133.317969],
+        [56.848972, -9.74375],
+        [64.774125, -25.428281],
+        [74.729615, -38.220312],
+        [80.956099, -49.821875],
+        [78.733501, -18.457031],
+        [83.400042, -18.28125],
+        [40.044438, 11.401563],
+        [48.57479, 20.742188],
+        [56.752723, 11.877344],
+        [55.498853, 37.465625],
+        [61.354614, 54.140625],
+        [71.357067, 66.972656],
+        [64.997939, 27.773438],
+        [74.729615, 40.429688],
+        [81.38765, 94.770313],
+        [81.338321, 56.274219],
+        [78.684608, 20.666406],
+        [83.400042, 20.742188]
+      ]
+    },
+    {
+      "type": "ammo",
+      "description": "",
+      "coords": [
+        [3.5, -39.5],
+        [12.31118, -60.720313],
+        [21.779905, -85.957031],
+        [32.646813, -109.411719],
+        [52.68278, -153.508594],
+        [27.994401, -159.333594],
+        [-25.005973, -9.316406],
+        [-29.075375, -28.125],
+        [-42.323457, -8.513281],
+        [-13.923404, -39.550781],
+        [-7.536764, -58.183594],
+        [-0.527336, -89.121094],
+        [-25.799891, -56.601563],
+        [-26.273714, -82.617188],
+        [1.857537, -119.23125],
+        [-23.241346, -112.851563],
+        [-6.040555, -160.464062],
+        [-39.939538, -43.417969],
+        [-51.069017, -23.278906],
+        [-56.46249, -44.296875],
+        [-46.316584, -65.390625],
+        [-43.297167, -100.446875],
+        [-36.473357, -145.546875],
+        [-57.315823, -81.814063],
+        [-57.515823, -137.8125],
+        [-62.674143, -13.535156],
+        [-76.393312, -14.289844],
+        [-69.939622, -32.519531],
+        [-66.772977, -58.007813],
+        [-76.750739, -52.03125],
+        [-71.956229, -91.034688]
+      ]
+    },
+    {
+      "type": "chemical",
+      "description": "",
+      "coords": [
+        [1, 25.5],
+        [33.970416, 60.46875],
+        [32.546813, 111.845313],
+        [52.689701, 156.09375],
+        [3.562456, 42.011719],
+        [6.83917, 57.832031],
+        [5.790897, 72.773438],
+        [-0.35156, 91.40625],
+        [21.616579, 88.066406],
+        [1.857537, 121.464844],
+        [27.939076, 161.71875],
+        [-6.040555, 162.873438],
+        [-25.005973, 11.601563],
+        [-42.423457, 10.722656],
+        [-62.593341, 15.644531],
+        [-76.351896, 16.699219],
+        [-14.093957, 41.835938],
+        [-7.885147, 60.46875],
+        [-29.182175, 30.650156],
+        [-25.641526, 59.0625],
+        [-26.431228, 84.996563],
+        [-26.273714, 115.136719],
+        [-36.397889, 147.680469],
+        [-39.909736, 45.878906],
+        [-51.159406, 25.5125],
+        [-46.337857, 67.875781],
+        [-43.425178, 102.75625],
+        [-56.459482, 46.757813],
+        [-57.421294, 84.199219],
+        [-61.606396, 132.111719],
+        [-66.791909, 60.392969],
+        [-69.950118, 34.980469],
+        [-71.965388, 93.339844],
+        [-76.750223, 54.416406]
+      ]
+    },
+    {
+      "type": "mine",
+      "description": "",
+      "coords": [
+        [31, 19]
+      ]
+    },
+    {
+      "type": "explosive",
+      "description": "Peut faire apparaitre des explosifs, de la ferraille (Fer, Cuivre) et des fragments de munitions",
+      "coords": [
+        [0.3, 22]
+      ]
+    },
+    {
+      "type": "pantoon",
+      "description": "",
+      "coords": [
+        [1, 99]
+      ]
+    },
+    {
+      "type": "rock",
+      "description": "",
+      "coords": [
+        [-1, 1.2]
+      ]
+    },
+    {
+      "type": "poi",
+      "name": "Trois Baleines",
+      "description": "La ville principale du jeu, dans laquel se trouve la base du joueur, qui devra être améliorée. On y trouve un marchand, un shérif qui donne des quêtes normales et JcJ, ainsi que d'autres PNJ.",
+      "coords": [[25.6, 1.15]],
+      "actions": ["quest", "repair", "trade", "mail", "ship"]
+    },
+    {
+      "type": "poi",
+      "name": "Squale City",
+      "description": "",
+      "coords": [[-81.28, -145.3]],
+      "actions": ["quest"]
+    },
+    {
+      "type": "poi",
+      "name": "L'Ordre",
+      "description": "",
+      "coords": [[-31.9, 1.15]],
+      "actions": ["quest"]
+    },
+    {
+      "type": "poi",
+      "name": "Entrée chez les volcan",
+      "description": "",
+      "coords": [[-29.135, 41.8579]],
+      "actions": ["quest"]
+    },
+    {
+      "type": "poi",
+      "name": "Moby Dick",
+      "description": "",
+      "coords": [[-44.65, 33.7]],
+      "actions": ["quest"]
+    },
+    {
+      "type": "poi",
+      "name": "Atelier Sud",
+      "description": "Dans cet atelier, vous pourrez réparer un bateau en échange de bouchons.",
+      "coords": [[-50.64, -0.45]],
+      "actions": ["repair"]
+    },
+    {
+      "type": "poi",
+      "name": "Maison du chasseur de requin",
+      "description": "",
+      "coords": [[-37.255, -37.858]],
+      "actions": ["quest", "crew"]
+    },
+    {
+      "type": "poi",
+      "name": "Atelier Nord",
+      "description": "Dans cet atelier, vous pourrez réparer un bateau en échange de bouchons.",
+      "coords": [[45.26, 1.16]],
+      "actions": ["repair"]
+    },
+    {
+      "type": "poi",
+      "name": "Tour radio",
+      "description": "",
+      "coords": [[48.62, -39.49]],
+      "actions": ["quest"]
+    },
+    {
+      "type": "poi",
+      "name": "Sirène",
+      "description": "",
+      "coords": [[48.1, 52.45]],
+      "actions": ["quest"]
+    },
+    {
+      "type": "poi",
+      "name": "Jummeaux",
+      "description": "",
+      "coords": [[58.32, 13.35]],
+      "actions": ["quest"]
+    },
+    {
+      "type": "poi",
+      "name": "Association de plongée d'Ama",
+      "description": "",
+      "coords": [[62.33, -31.36]],
+      "actions": ["quest", "trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Bar de la mante",
+      "description": "",
+      "coords": [[72.72, -6.15]],
+      "actions": ["quest", "trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Atelier de Jimmy",
+      "description": "Dans cet atelier, vous pourrez réparer un bateau en échange de bouchons",
+      "coords": [[67.17, -14.26]],
+      "actions": ["quest", "repair"]
+    },
+    {
+      "type": "poi",
+      "name": "Radiodruin",
+      "description": "",
+      "coords": [[76.2, -55.83]],
+      "actions": ["quest"]
+    },
+    {
+      "type": "poi",
+      "name": "Commerçant 11",
+      "description": "Point d'échange pour la vente et l'achat de ressources",
+      "coords": [[80.04, -80.2]],
+      "actions": ["trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Commerçant 12",
+      "description": "Point d'échange pour la vente et l'achat de ressources",
+      "coords": [[83.19, 1.121]],
+      "actions": ["trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Bureau de post N",
+      "description": "Attribution d'une tâche pour le transport de messages",
+      "coords": [[80.96, 1.12]],
+      "actions": ["quest", "mail"]
+    },
+    {
+      "type": "poi",
+      "name": "Résidence de l'ambassadeur",
+      "description": "Zone de quêtes PVP. Accessible uniquement pendant la journée",
+      "coords": [[80.845, -144.6]],
+      "actions": ["quest"]
+    },
+    {
+      "type": "poi",
+      "name": "Grotte joyeuse",
+      "description": "Les quêtes des membres de l'équipage de Lin. Accessible uniquement pendant la nuit",
+      "coords": [[80.96, -145.3]],
+      "actions": ["quest"]
+    },
+    {
+      "type": "poi",
+      "name": "Phare",
+      "description": "Une caravane se rend à cet endroit dans le cadre de l'une des quêtes visant à obtenir un membre de l'équipage de Lin",
+      "coords": [[78.01, -145.31]],
+      "actions": []
+    },
+    {
+      "type": "poi",
+      "name": "Thêatre des marionnettes",
+      "description": "Départ pour commencer la suite de quêtes afin d'obtenir un membre d'équipage Lin",
+      "coords": [[76.58, -115.99]],
+      "actions": ["quest", "crew"]
+    },
+    {
+      "type": "poi",
+      "name": "Bureau de post NO",
+      "description": "Attribution d'une tâche pour le transport de messages",
+      "coords": [[70.95, -102.1]],
+      "actions": ["quest", "mail"]
+    },
+    {
+      "type": "poi",
+      "name": "Commerçant 10",
+      "description": "Point d'échange pour la vente et l'achat de ressources",
+      "coords": [[62.33, -139.69]],
+      "actions": ["trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Dragon",
+      "description": "",
+      "coords": [[53.75, -120.85]],
+      "actions": ["quest","trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Lapin calin",
+      "description": "",
+      "coords": [[51.74, -80.15]],
+      "actions": ["quest"]
+    },
+    {
+      "type": "poi",
+      "name": "Motel",
+      "description": "Une série de quêtes JcJ peuvent être accomplies dans ce lieu",
+      "coords": [[53.75, -63.9]],
+      "actions": ["quest"]
+    },
+    {
+      "type": "poi",
+      "name": "Statue",
+      "description": "",
+      "coords": [[29.93, -75.3]],
+      "actions": ["trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Parterre",
+      "description": "Une série de quêtes JcJ peuvent être accomplies dans ce village",
+      "coords": [[6.93, -80.15]],
+      "actions": ["quest"]
+    },
+    {
+      "type": "poi",
+      "name": "Atelier Ouest",
+      "description": "Dans cet atelier, vous pourrez réparer un bateau en échange de bouchons",
+      "coords": [[-1.2, -55.75]],
+      "actions": ["repair"]
+    },
+    {
+      "type": "poi",
+      "name": "Bureau de post O",
+      "description": "Attribution d'une tâche pour le transport de messags",
+      "coords": [[-1.2, -145.25]],
+      "actions": ["quest", "mail"]
+    },
+    {
+      "type": "poi",
+      "name": "Commerçant 8",
+      "description": "Point d'échange pour la vente et l'achat de ressources",
+      "coords": [[-63.35, -139.7]],
+      "actions": ["trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Colisé",
+      "description": "Ici, vous pouvez commencer la suite de quêtes pour obtenir deux membres d'équipage des Charognards, Batyr et Aymar",
+      "coords": [[-31.9, -76.9]],
+      "actions": ["quest","crew"]
+    },
+    {
+      "type": "poi",
+      "name": "Donjon",
+      "description": "Dans ce lieu, vous pouvez vendre ou acheter certains biens à un prix élevé",
+      "coords": [[-44.65, -60.65]],
+      "actions": ["quest","trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Chasseur de requin",
+      "description": "",
+      "coords": [[-55.4, -53.3]],
+      "actions": ["quest"]
+    },
+    {
+      "type": "poi",
+      "name": "Radar maudit",
+      "description": "",
+      "coords": [[-61.1, -55.75]],
+      "actions": ["quest"]
+    },
+    {
+      "type": "poi",
+      "name": "Bureau de post SO",
+      "description": "Attribution d'une tâche pour le transport de messags",
+      "coords": [[-71.63, -102.11]],
+      "actions": ["quest", "mail"]
+    },
+    {
+      "type": "poi",
+      "name": "Commerçant 8",
+      "description": "Point d'échange pour la vente et l'achat de ressources",
+      "coords": [[-80.41, -80.15]],
+      "actions": ["trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Bureau de post S",
+      "description": "Attribution d'une tâche pour le transport de messags",
+      "coords": [[-81.28, 1.121]],
+      "actions": ["quest", "mail"]
+    },
+    {
+      "type": "poi",
+      "name": "Clocher",
+      "description": "",
+      "coords": [[-72.38, -15.09]],
+      "actions": ["quest"]
+    },
+    {
+      "type": "poi",
+      "name": "Moulin",
+      "description": "",
+      "coords": [[-75.53, 22.33]],
+      "actions": ["quest"]
+    },
+    {
+      "type": "poi",
+      "name": "Commerçant 5",
+      "description": "Point d'échange pour la vente et l'achat de ressources",
+      "coords": [[-80.41, 82.51]],
+      "actions": ["trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Bureau de post SE",
+      "description": "Attribution d'une tâche pour le transport de messags",
+      "coords": [[-71.63, 104.45]],
+      "actions": ["quest", "mail"]
+    },
+    {
+      "type": "poi",
+      "name": "Station service",
+      "description": "",
+      "coords": [[-74.65, 123.5]],
+      "actions": ["quest", "mail"]
+    },
+    {
+      "type": "poi",
+      "name": "Commerçant 4",
+      "description": "Point d'échange pour la vente et l'achat de ressources",
+      "coords": [[-63.35, 142.05]],
+      "actions": ["trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Commerçant 3",
+      "description": "Point d'échange pour la vente et l'achat de ressources",
+      "coords": [[-1.18, 163.87]],
+      "actions": ["trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Bureau de post E",
+      "description": "Attribution d'une tâche pour le transport de messags",
+      "coords": [[-1.18, 147.6]],
+      "actions": ["quest", "mail"]
+    },
+    {
+      "type": "poi",
+      "name": "Atelier de Niko",
+      "description": "Atelier de l'artiste Niko",
+      "coords": [[3.67, 118.3]],
+      "actions": ["quest"]
+    },
+    {
+      "type": "poi",
+      "name": "Trois cheminnées",
+      "description": "Dans la suite de quête pour obtenir deux membres d'équipage au Colisée, Lizzie vous demandera d'aller chercher 50 déchets chimiques",
+      "coords": [[-12.45, 95.55]],
+      "actions": ["quest", "trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Flotteur",
+      "description": "Dans la suite de quête pour obtenir deux membres d'équipage au Colisée, Lizzie vous demandera d'aller chercher 50 déchets chimiques",
+      "coords": [[25.6, 82.51]],
+      "actions": ["quest", "trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Charpentier de marinne",
+      "description": "Dans cet atelier, vous pourrez réparer un bateau en échange de bouchons. Vous trouverez une suite de quêtes permettant d'obtenir l'un des trois tableaux de bord(T1) actuels de votre choix",
+      "coords": [[46.4, 87.4]],
+      "actions": ["quest", "trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Commerçant 2",
+      "description": "Point d'échange pour la vente et l'achat de ressources",
+      "coords": [[62.33, 142.07]],
+      "actions": ["trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Bureau de post NE",
+      "description": "Attribution d'une tâche pour le transport de messags",
+      "coords": [[70.95, 104.45]],
+      "actions": ["quest", "mail"]
+    },
+    {
+      "type": "poi",
+      "name": "Commerçant 1",
+      "description": "Point d'échange pour la vente et l'achat de ressources",
+      "coords": [[78.54, 82.464]],
+      "actions": ["trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Porte avion",
+      "description": "",
+      "coords": [[78.01, 99.6]],
+      "actions": ["quest", "trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Dutagaz",
+      "description": "",
+      "coords": [[80.435, 111.75]],
+      "actions": ["quest"]
+    },
+    {
+      "type": "poi",
+      "name": "Atelier Est",
+      "description": "Dans cet atelier, vous pourrez réparer un bateau en échange de bouchons",
+      "coords": [[-1.14, 58.1]],
+      "actions": ["repair"]
+    },
+    {
+      "type": "poi",
+      "name": "Commerçant",
+      "description": "Point d'échange pour la vente et l'achat de ressources",
+      "coords": [[27.05, 56.45]],
+      "actions": ["trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Diogènes",
+      "description": "",
+      "coords": [[-34.65, 62.99]],
+      "actions": ["quest"]
+    },
+    {
+      "type": "poi",
+      "name": "Éléphant",
+      "description": "",
+      "coords": [[-59.46, 69.48]],
+      "actions": ["quest", "trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Tribunal",
+      "description": "",
+      "coords": [[-66.74, 46.7]],
+      "actions": ["quest"]
+    },
+    {
+      "type": "poi",
+      "name": "Bar de la Giraffe",
+      "description": "",
+      "coords": [[-63.34, 17.45]],
+      "actions": ["quest", "trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Flèche rouge",
+      "description": "",
+      "coords": [[-64.74, -2.05]],
+      "actions": ["quest", "trade"]
+    },
+    {
+      "type": "poi",
+      "name": "Commerçant 9",
+      "description": "Point d'échange pour la vente et l'achat de ressources",
+      "coords": [[-1.2, -161.5]],
+      "actions": ["trade"]
+    }
+  ]
+}

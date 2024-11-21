@@ -1,0 +1,270 @@
+{
+  "data": [
+    {
+      "id": "strut_pilot_boat",
+      "rank": "2",
+      "description": "Ce navire peut être trouvé dans cette zone.",
+      "coords": [
+        [76.2, -72.5]
+      ]
+    },
+    {
+      "id": "tk7_marlin_torpedo_boat",
+      "rank": "2",
+      "description": "",
+      "coords": [
+        [75.3, -38.2],
+        [80, -37],
+        [-10, -140],
+        [-64.5, -60]
+      ]
+    },
+    {
+      "id": "scorpena_torpedo_boat",
+      "rank": "2",
+      "description": "",
+      "coords": [
+        [79, -120],
+        [-76.5, -57],
+        [-73, 40]
+      ]
+    },
+    {
+      "id": "mariana_seiner",
+      "rank": "2",
+      "description": "Ce navire peut être trouvé autour de cette zone dans un grand groupe de navires.",
+      "coords": [
+        [74.4, 129],
+        [-59, 126]
+      ]
+    },
+    {
+      "id": "walrus_tugboat",
+      "rank": "3",
+      "description": "Ce navire peut être trouvé dans cette zone. Il est parfois dans un grand groupe de navires.",
+      "coords": [
+        [48, -19.5],
+        [56.5, -8.5],
+        [77.5, -12.5],
+        [-75.5, -50],
+        [-36, 152]
+      ]
+    },
+    {
+      "id": "shamrock_trawler",
+      "rank": "3",
+      "description": "Ce navire peut être trouvé autour de cette zone dans un grand groupe de navires.",
+      "coords": [
+        [81.3, -45],
+        [74, 130],
+        [69, -163],
+        [25, -157],
+        [-61, 127]
+      ]
+    },
+    {
+      "id": "snappy_patrol_boat",
+      "rank": "3",
+      "description": "Ce navire peut être trouvé autour de cette zone dans un grand groupe de navires.",
+      "coords": [
+        [-35, -150],
+        [-80.7, -57],
+        [-82.8, 38.5]
+      ]
+    },
+    {
+      "id": "vigilant_patrol_boat",
+      "rank": "3",
+      "description": "Ce navire peut être trouvé autour de cette zone dans un grand groupe de navires.",
+      "coords": [
+        [-37, -149],
+        [-81, -58],
+        [-82.7, 40]
+      ]
+    },
+    {
+      "id": "brawler_torpedo_boat",
+      "rank": "4",
+      "description": "Ce navire peut être trouvé autour de cette zone dans un grand groupe de navires.",
+      "coords": [
+        [73.6, 128],
+        [-60.3, 125]
+      ]
+    },
+    {
+      "id": "anchovy_trawler",
+      "rank": "4",
+      "description": "Ce navire peut être trouvé autour de cette zone dans un grand groupe de navires.",
+      "coords": [
+        [81.6, -45],
+        [69.5, -165],
+        [-33, -151],
+        [-80.4, -57],
+        [-82.4, 39]
+      ]
+    },
+    {
+      "id": "bk_muraena_patrol_trawler",
+      "rank": "4",
+      "description": "Ce navire peut être trouvé autour de cette zone dans un grand groupe de navires.",
+      "coords": [
+        [27, -155],
+        [-33, -148],
+        [-80.3, -60],
+        [-82.2, 38]
+      ]
+    },
+    {
+      "id": "burdock_gunboat",
+      "rank": "5",
+      "description": "Ce navire peut être trouvé autour de cette zone dans un grand groupe de navires.",
+      "coords": [
+        [74, 125.5],
+        [-60, 129]
+      ]
+    }
+  ],
+  "rank2": [
+    {
+      "id": "strut_pilot_boat",
+      "rank": "2",
+      "name": "Bateau-pilote Strut",
+      "description": "Ce navire peut être trouvé dans cette zone.",
+      "coords": [
+        [76.2, -72.5]
+      ]
+    },
+    {
+      "id": "tk7_marlin_torpedo_boat",
+      "rank": "2",
+      "name": "Torpilleur TK7 Marlin",
+      "description": "",
+      "coords": [
+        [75.3, -38.2],
+        [80, -37],
+        [-10, -140],
+        [-64.5, -60]
+      ]
+    },
+    {
+      "id": "scorpena_torpedo_boat",
+      "rank": "2",
+      "name": "Torpilleur Scorpena",
+      "description": "",
+      "coords": [
+        [79, -120],
+        [-76.5, -57],
+        [-73, 40]
+      ]
+    },
+    {
+      "id": "mariana_seiner",
+      "rank": "2",
+      "name": "Mariana Seiner II",
+      "description": "Ce navire peut être trouvé autour de cette zone dans un grand groupe de navires.",
+      "coords": [
+        [74.4, 129],
+        [-59, 126]
+      ]
+    }
+  ],
+  "rank3": [
+    {
+      "id": "walrus_tugboat",
+      "rank": "3",
+      "name": "Remorqueur  Le Morse",
+      "description": "Ce navire peut être trouvé dans cette zone. Il est parfois dans un grand groupe de navires.",
+      "coords": [
+        [48, -19.5],
+        [56.5, -8.5],
+        [77.5, -12.5],
+        [-75.5, -50],
+        [-36, 152]
+      ]
+    },
+    {
+      "id": "shamrock_trawler",
+      "rank": "3",
+      "name": "Chalutier Le Trèfle",
+      "description": "Ce navire peut être trouvé autour de cette zone dans un grand groupe de navires.",
+      "coords": [
+        [81.3, -45],
+        [74, 130],
+        [69, -163],
+        [25, -157],
+        [-61, 127]
+      ]
+    },
+    {
+      "id": "snappy_patrol_boat",
+      "rank": "3",
+      "name": "Patrouilleur Le Vif",
+      "description": "Ce navire peut être trouvé autour de cette zone dans un grand groupe de navires.",
+      "coords": [
+        [-35, -150],
+        [-80.7, -57],
+        [-82.8, 38.5]
+      ]
+    },
+    {
+      "id": "vigilant_patrol_boat",
+      "rank": "3",
+      "name": "Patrouilleur Le Vigilant",
+      "description": "Ce navire peut être trouvé autour de cette zone dans un grand groupe de navires.",
+      "coords": [
+        [-37, -149],
+        [-81, -58],
+        [-82.7, 40]
+      ]
+    }
+  ],
+  "rank4": [
+    {
+      "id": "brawler_torpedo_boat",
+      "rank": "4",
+      "name": "Torpilleur Le Bagarreur",
+      "description": "Ce navire peut être trouvé autour de cette zone dans un grand groupe de navires.",
+      "coords": [
+        [73.6, 128],
+        [-60.3, 125]
+      ]
+    },
+    {
+      "id": "anchovy_trawler",
+      "rank": "4",
+      "name": "Chalutier L'Anchois",
+      "description": "Ce navire peut être trouvé autour de cette zone dans un grand groupe de navires.",
+      "coords": [
+        [81.6, -45],
+        [69.5, -165],
+        [-33, -151],
+        [-80.4, -57],
+        [-82.4, 39]
+      ]
+    },
+    {
+      "id": "bk_muraena_patrol_trawler",
+      "rank": "4",
+      "name": "Patrouilleur BK Muraena",
+      "description": "Ce navire peut être trouvé autour de cette zone dans un grand groupe de navires.",
+      "coords": [
+        [27, -155],
+        [-33, -148],
+        [-80.3, -60],
+        [-82.2, 38]
+      ]
+    }
+  ],
+  "rank5": [
+    {
+      "id": "burdock_gunboat",
+      "rank": "5",
+      "name": "Burdock Gunboat",
+      "description": "Ce navire peut être trouvé autour de cette zone dans un grand groupe de navires.",
+      "coords": [
+        [74, 125.5],
+        [-60, 129]
+      ]
+    }
+  ]
+}
