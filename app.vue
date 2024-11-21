@@ -1,10 +1,15 @@
 <script lang="ts" setup>
+  //https://nuxt.com/docs/getting-started/seo-meta
   import { MARKER_LEGEND } from '@/utils/main.const'
   import MARKERS from '@/data/markers.json'
   import SHIPS from '@/data/ships.json'
   const config = useRuntimeConfig()
 
   const SHOW_DRAGABLE_MARKER = config.public.ShowDragableMarker
+
+  definePageMeta({
+    title: 'Age of Water Map'
+  })
 
   const locationMarker = ref(null)
 

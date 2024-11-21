@@ -63,7 +63,7 @@ export const MARKER_LEGEND: IMarkerLegend = {
       },
       {
         id: 'mariana_seiner',
-        title: 'Mariana Seiner II',
+        title: 'Senneur La Mariana',
         show: true,
       },
     ]
@@ -124,7 +124,7 @@ export const MARKER_LEGEND: IMarkerLegend = {
     ships: [
       {
         id: 'burdock_gunboat',
-        title: 'Burdock Gunboat',
+        title: 'Cannonière La Bardane',
         show: true,
       },
     ]
