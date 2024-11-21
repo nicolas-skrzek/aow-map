@@ -12,7 +12,7 @@ export default defineNuxtConfig({
   },
   runtimeConfig: {
     public: {
-      NodeEnv: process.env.NODE_ENV || 'production'
+      NodeEnv: process.env.NODE_ENV || 'production',
       ShowDragableMarker: process.env.SHOW_DRAGABLE_MARKER || false
     },
   },
