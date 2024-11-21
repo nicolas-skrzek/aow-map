@@ -1,5 +1,6 @@
 <script setup lang="ts">
   import { IMarkerLegend } from '@/types/marker'
+  const config = useRuntimeConfig()
 
   export interface IMarkerData {
     type: string;
@@ -22,6 +23,8 @@
     radius: 6,
     legends: undefined,
   })
+
+  const urlIcon = `/${config.public.NodeEnv !== 'production' ? '' : 'aow-map/' }assets/icons/`
 </script>
 <template>
   <LLayerGroup :name="groupName">
@@ -47,7 +50,7 @@
                   class="max-h-5"
                   v-for="action in marker.actions"
                   :key="action"
-                  :src="`/assets/icons/${action}.png`"
+                  :src="`${urlIcon}${action}.png`"
                   :alt="action"
                   :width="20"
                   :title="action"

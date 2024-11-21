@@ -12,6 +12,8 @@
 
   const legends = ref({...MARKER_LEGEND})
 
+  const urlMapParts = `/${config.public.NodeEnv !== 'production' ? '' : 'aow-map/' }assets/map_parts/{z}/{x}/{y}.png`
+
   const displayLocationMarker = (value) => {
     locationMarker.value = value
   }
@@ -49,7 +51,7 @@
     :bounds="bounds"
   >
     <LTileLayer
-      url="/assets/map_parts/{z}/{x}/{y}.png"
+      :url="urlMapParts"
       :noWrap="true"
     />
     <MarkerPoint :list="MARKERS.data" :radius="4" :legends="legends" />

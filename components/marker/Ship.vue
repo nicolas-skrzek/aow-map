@@ -1,5 +1,6 @@
 <script setup lang="ts">
   import { IMarkerLegend } from '@/types/marker'
+  const config = useRuntimeConfig()
 
   export interface IShipData {
     id: string;
@@ -19,6 +20,8 @@
     legends: undefined,
   })
 
+  const urlIcon = `/${config.public.NodeEnv !== 'production' ? '' : 'aow-map/' }assets/icons/`
+
   const getShipLegend = (rank: string, id: string): string => props.legends[`rank${rank}`]?.ships.find(ship => ship.id === id)
 </script>
 <template>
@@ -29,7 +32,7 @@
           v-if="legends && legends[`rank${ship.rank}`] && getShipLegend(ship.rank, ship.id).show"
           :lat-lng="coord"
         >
-          <LIcon :icon-url="`/assets/icons/${legends[`rank${ship.rank}`]?.icon}.png`" :icon-size="[20,20]" />
+          <LIcon :icon-url="`${urlIcon}${legends[`rank${ship.rank}`]?.icon}.png`" :icon-size="[20,20]" />
           <LPopup>
             <h4 class="mb-2 font-semibold">
               {{ getShipLegend(ship.rank, ship.id).title}} {{ `(T${ship.rank})` }}
